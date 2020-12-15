@@ -1,4 +1,4 @@
-# PHP Auto Monitoring and backup
+# PHP Auto Monitoring and Backup
 Centralize Monitoring and Backup Server/Web/Database in one place.
 
 - Auto Monitoring Site by ping, http, service:port, event using password
